@@ -3,3 +3,5 @@ This code is modified based on the project of pixp2pix Torch. The original code 
 The detail description can be found in  https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
 
 In this project, the code is adapted for 2-D wave spectrum retrieval from SAR image spectra. 
+
+The results are saved in the \Results
